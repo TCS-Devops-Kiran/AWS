@@ -26,7 +26,7 @@ Managed policies – AWS or customer managed.
 Inline policies – Embedded directly into a user, group, or role.
 Permission boundaries – Limit maximum permissions a policy can grant.
 
-6.6. What is a policy document structure?
+6. What is a policy document structure?
 Answer:
 IAM policies use JSON with key elements:
 {
