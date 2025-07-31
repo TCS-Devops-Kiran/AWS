@@ -1,8 +1,8 @@
 1. What is IAM in AWS?
-Answer:
+   Answer:
 IAM (Identity and Access Management) is a web service that helps you securely control access to AWS services and resources. It allows you to create and manage users, groups, roles, and permissions.
 
-2. What are the key components of IAM?
+3. What are the key components of IAM?
 Answer:
 Users – Individual AWS accounts.
 Groups – Collection of IAM users.
